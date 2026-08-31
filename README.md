@@ -21,9 +21,10 @@ It is inspired by premium design and has an aluminum enclosure which also helps 
 
 This is the concept design(ai genenrated):
 
-<img width="864" height="1215" alt="image" src="https://github.com/user-attachments/assets/058d2ac8-20c1-40cf-94a6-b8ea1b7d28da" />
+<img width="728" height="1024" alt="image" src="https://github.com/user-attachments/assets/9201787c-cb96-4442-9de4-26881b7fc135" />
 
 This is the pcb:
 
 <img width="569" height="815" alt="Screenshot 2026-08-31 201401" src="https://github.com/user-attachments/assets/9c8ccdb4-5db4-4aa9-922e-6c88677761bc" />
+<img width="663" height="917" alt="image" src="https://github.com/user-attachments/assets/a06f676f-0066-4999-b183-f2f8cadcf1d6" />
 
