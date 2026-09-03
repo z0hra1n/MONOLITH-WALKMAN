@@ -15,6 +15,8 @@ It is powered by the esp32 s3 - wroom 1.
 
 It uses the audiophile - grade dac, ES9039Q2M for superior audio quality.
 
+It also has a sd card slot for loading all your favourite songs and abums
+
 It is all held together by a densely packed pcb.
 
 It is inspired by premium design and has an aluminum enclosure which also helps in heat dissipation.
@@ -25,6 +27,7 @@ This is the concept design(ai genenrated):
 
 This is the pcb:
 
-<img width="569" height="815" alt="Screenshot 2026-08-31 201401" src="https://github.com/user-attachments/assets/9c8ccdb4-5db4-4aa9-922e-6c88677761bc" />
-<img width="663" height="917" alt="image" src="https://github.com/user-attachments/assets/a06f676f-0066-4999-b183-f2f8cadcf1d6" />
+<img width="377" height="541" alt="image" src="https://github.com/user-attachments/assets/b8107ed7-bfc1-4f9a-8ce5-9e5327b16290" />
+<img width="638" height="925" alt="image" src="https://github.com/user-attachments/assets/0bdf6f09-8bd6-427a-afa1-fe832a574459" />
+
 
