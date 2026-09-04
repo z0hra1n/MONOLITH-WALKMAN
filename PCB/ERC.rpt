@@ -1,0 +1,127 @@
+ERC report (2026-09-02T20:14:58, Encoding UTF8)
+Report includes: Errors, Warnings, Exclusions
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'DW01A' doesn't match copy in library 'Battery_Management'
+    ; warning
+    @(1250 mils, 3000 mils): Symbol U4 [DW01A]
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning
+    @(5100 mils, 6350 mils): Global Label 'pin7'
+    @(5100 mils, 7150 mils): Global Label 'PIN7'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning
+    @(5100 mils, 6350 mils): Global Label 'pin7'
+    @(6900 mils, 5550 mils): Global Label 'PIN7'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+    @(5100 mils, 7350 mils): Global Label 'PIN1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+    @(4400 mils, 5800 mils): Global Label 'PIN1'
+[lib_symbol_mismatch]: Symbol 'ESP32-S3-WROOM-1' doesn't match copy in library 'RF_Module'
+    ; warning
+    @(2350 mils, 4500 mils): Symbol U1 [ESP32-S3-WROOM-1]
+[lib_symbol_mismatch]: Symbol doesn't match copy in library
+    ; warning (excluded)
+[lib_symbol_mismatch]: Symbol 'LTC4440ES6' doesn't match copy in library 'Driver_FET'
+    ; warning (excluded)
+    @(1100 mils, 4900 mils): Symbol U5 [LTC4440ES6]
+[lib_symbol_mismatch]: Symbol 'MCP73831-2-OT' doesn't match copy in library 'Battery_Management'
+    ; warning (excluded)
+    @(1600 mils, 3900 mils): Symbol U2 [MCP73831-2-OT]
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+    @(850 mils, 2400 mils): Global Label 'BAT+'
+    @(3550 mils, 3400 mils): Global Label 'GND'
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 6350 mils): Global Label 'pin7'
+    @(5100 mils, 7150 mils): Global Label 'PIN7'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 6350 mils): Global Label 'pin7'
+    @(6900 mils, 5550 mils): Global Label 'PIN7'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+    @(5100 mils, 7350 mils): Global Label 'PIN1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+    @(4400 mils, 5800 mils): Global Label 'PIN1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 7350 mils): Global Label 'PIN1'
+    @(5600 mils, 1100 mils): Global Label 'pin1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5100 mils, 7350 mils): Global Label 'PIN1'
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(4400 mils, 5800 mils): Global Label 'PIN1'
+    @(5600 mils, 1100 mils): Global Label 'pin1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(4400 mils, 5800 mils): Global Label 'PIN1'
+    @(5100 mils, 6550 mils): Global Label 'pin1'
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5600 mils, 1100 mils): Global Label 'pin1'
+    @(5100 mils, 7350 mils): Global Label 'PIN1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5600 mils, 1100 mils): Global Label 'pin1'
+    @(4400 mils, 5800 mils): Global Label 'PIN1'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5650 mils, 2000 mils): Global Label 'pin7'
+    @(5100 mils, 7150 mils): Global Label 'PIN7'
+[similar_labels]: Labels are similar (lower/upper case difference only)
+    ; warning (excluded)
+    @(5650 mils, 2000 mils): Global Label 'pin7'
+    @(6900 mils, 5550 mils): Global Label 'PIN7'
+[lib_symbol_mismatch]: Symbol 'MCP23017x-x-SO' doesn't match copy in library 'Interface_Expansion'
+    ; warning (excluded)
+    @(10100 mils, 1800 mils): Symbol U7 [MCP23017x-x-SO]
+
+***** Sheet /Untitled Sheet/
+[multiple_net_names]: Both GND and TPINN are attached to the same items; GND will be used in the netlist
+    ; warning
+    @(2350 mils, 5600 mils): Global Label 'GND'
+    @(1250 mils, 1600 mils): Global Label 'TPINN'
+[multiple_net_names]: Both 3.3v and TPVIN are attached to the same items; 3.3v will be used in the netlist
+    ; warning
+    @(5150 mils, 3300 mils): Global Label '3.3v'
+    @(1700 mils, 1500 mils): Global Label 'TPVIN'
+[multiple_net_names]: Both ILRCK and RX are attached to the same items; ILRCK will be used in the netlist
+    ; warning
+    @(3500 mils, 3350 mils): Global Label 'ILRCK'
+    @(3500 mils, 3350 mils): Global Label 'RX'
+[multiple_net_names]: Both IDOUT and TX are attached to the same items; IDOUT will be used in the netlist
+    ; warning
+    @(3500 mils, 3450 mils): Global Label 'IDOUT'
+    @(3500 mils, 3450 mils): Global Label 'TX'
+[multiple_net_names]: More than one name given to this bus or net
+    ; warning (excluded)
+    @(3850 mils, 1950 mils): Global Label '3.3v'
+    @(3850 mils, 1950 mils): Global Label 'TPVIN'
+
+ ** ERC messages: 32  Errors 0  Warnings 32
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters

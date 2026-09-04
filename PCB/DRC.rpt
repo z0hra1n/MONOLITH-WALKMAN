@@ -1,0 +1,36 @@
+** Drc report for MP3.kicad_pcb **
+** Created on 2026-09-03T20:41:01 **
+** Report includes: Errors, Warnings, Exclusions **
+
+** Found 6 DRC violations **
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1750 mm; actual 0.1447 mm) (In1.Cu)
+    Rule: board setup constraints; warning
+    @(192.5000 mm, 29.0000 mm): Zone 'gnd_1' [GND] on F.Cu, B.Cu and 2 more, priority 0
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1750 mm; actual 0.0746 mm) (In2.Cu)
+    Rule: board setup constraints; warning
+    @(192.5000 mm, 29.0000 mm): Zone 'gnd_1' [GND] on F.Cu, B.Cu and 2 more, priority 0
+[connection_width]: Copper connection too narrow (board setup constraints minimum connection width 0.1750 mm; actual 0.0706 mm) (B.Cu)
+    Rule: board setup constraints; warning (excluded)
+    @(192.5000 mm, 29.0000 mm): Zone 'gnd_1' [GND] on F.Cu, B.Cu and 2 more, priority 0
+[lib_footprint_mismatch]: Footprint 'microSD_HC_Molex_104031-0811' does not match copy in library 'Connector_Card'
+    Local override; warning (excluded)
+    @(199.5000 mm, 87.5000 mm): Footprint J5
+[lib_footprint_mismatch]: Footprint 'PinHeader_1x04_P1.00mm_Vertical' does not match copy in library 'Connector_PinHeader_1.00mm'
+    Local override; warning (excluded)
+    @(256.0000 mm, 97.0000 mm): Footprint J7
+[lib_footprint_mismatch]: Footprint 'ESP32-S3-WROOM-1' does not match copy in library 'RF_Module'
+    Local override; warning (excluded)
+    @(211.7000 mm, 44.4900 mm): Footprint U1
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
