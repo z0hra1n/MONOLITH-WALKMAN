@@ -28,6 +28,7 @@ This is the concept design(ai genenrated):
 This is the pcb:
 
 <img width="377" height="541" alt="image" src="https://github.com/user-attachments/assets/b8107ed7-bfc1-4f9a-8ce5-9e5327b16290" />
-<img width="638" height="925" alt="image" src="https://github.com/user-attachments/assets/0bdf6f09-8bd6-427a-afa1-fe832a574459" />
+<img width="583" height="843" alt="image" src="https://github.com/user-attachments/assets/9a8cf30e-ef9e-41b3-8824-958cbfd9e420" />
+
 
 
