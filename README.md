@@ -83,6 +83,6 @@ BOM:
 | Enclosure | Aluminum Enclosure | 1 | 70.00 | Custom Fabrication | TBD |
 | Storage | BRYT A2 V30 32GB Micro SD SDHC UHS-1 | 1 | 6.87 | Amazon.in | BRYT A2 V30 32GB |
 | Battery | 3.7V 10000mAh LiPo Power Bank Battery | 1 | 5.08 | Amazon.in / Futuretech Supply | TBD |
-|---------|-------------------|----:|-----------:|------------|-------------|
+|---------|-------------------|----|-----------|------------|-------------|
 | TOTAL | | | 267.79$ | | |
 
