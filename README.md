@@ -80,6 +80,9 @@ BOM:
 | Power Conversion | MT3608 Boost Converter | 2 | 0.42 | Robu.in | MT3608 |
 | PCB Manufacturing | 4-Layer FR-4 PCB 65x94mm | 1 | 17.48 | JLCPCB / PCB Fab | MP3.zip |
 | Enclosure | Aluminum Enclosure | 1 | 70.00 | Custom Fabrication | TBD |
+| Enclosure | Aluminum Enclosure | 1 | 70.00 | Custom Fabrication | TBD |
+| Storage | BRYT A2 V30 32GB Micro SD SDHC UHS-1 | 1 | 6.87 | Amazon.in | BRYT A2 V30 32GB |
+| Battery | 3.7V 10000mAh LiPo Power Bank Battery | 1 | 5.08 | Amazon.in / Futuretech Supply | TBD |
 |---------|-------------------|----:|-----------:|------------|-------------|
-| TOTAL | | | 255.84$ | | |
+| TOTAL | | | 267.79$ | | |
 
